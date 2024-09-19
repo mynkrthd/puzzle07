@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991cc87e9b77d6a42bacb068d34e5210, type: 3}
+  m_Name: GamePresetsList
+  m_EditorClassIdentifier: 
+  presets:
+  - {fileID: 11400000, guid: 9f93146e909de439a9ef24591ba485ad, type: 2}
+  - {fileID: 11400000, guid: 7bc0f1302809640c2a6eec1734a691a6, type: 2}
+  - {fileID: 11400000, guid: b7a017125848b4f4c8d247e7edc1796f, type: 2}
+  - {fileID: 11400000, guid: 59e0da6811d5f6e43890376f8649c6a0, type: 2}
+  - {fileID: 11400000, guid: 11d71e1daee5945519fd4e22a3203c8a, type: 2}
+  - {fileID: 11400000, guid: 297618bdce5dd48ada5c577a53aeb4e5, type: 2}
+  - {fileID: 11400000, guid: 7cba505e31e3724448c941463c3c2267, type: 2}
+  - {fileID: 11400000, guid: e1513903db09bf34b8cb90e258eef255, type: 2}
+  - {fileID: 11400000, guid: 1f78c7a3070c37d418148450c609f594, type: 2}
+  - {fileID: 11400000, guid: 2aef50d86e65a4e0ab5b859a72b9cf65, type: 2}

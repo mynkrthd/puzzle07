@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb99356d2541492294507ac6b38b0f4b, type: 3}
+  m_Name: 2048Bricks_Tap
+  m_EditorClassIdentifier: 
+  price:
+    type: 0
+    value: 100
+  gamePrefab: {fileID: 7385471460361137410, guid: 4804b6d5072423a45a7b78f42fff373d,
+    type: 3}
+  lastChance:
+    LastChanceType: 2
+    MaxNumber: 4
+    LinesCount: 3
+  canBuyBoosters: 1
+  boosters:
+  - {fileID: 11400000, guid: f7f4fd224e0a0d74cb6fd4555078e553, type: 2}
+  - {fileID: 11400000, guid: 8bd05df1072bda64cbd2694fcb431927, type: 2}
+  - {fileID: 11400000, guid: 1d4507f6ead6ede4191c3baaf0f22ee4, type: 2}
+  - {fileID: 11400000, guid: 0984744077fcb7749b0c6d1d42a074cf, type: 2}
+  boosterConfigList:
+    list:
+    - booster: {fileID: 11400000, guid: f7f4fd224e0a0d74cb6fd4555078e553, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 8bd05df1072bda64cbd2694fcb431927, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 1d4507f6ead6ede4191c3baaf0f22ee4, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 0984744077fcb7749b0c6d1d42a074cf, type: 2}
+      startCount: 0

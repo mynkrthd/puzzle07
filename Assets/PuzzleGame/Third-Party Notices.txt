@@ -1,0 +1,5 @@
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+1. FredokaOne-Regular.ttf
+SIL Open Font License
+Copyright (c) 2011 Milena B Brandao (milenabbrandao@gmail.com), with Reserved Font Name "Fredoka"

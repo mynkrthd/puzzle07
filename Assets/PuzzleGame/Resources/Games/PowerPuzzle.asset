@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb99356d2541492294507ac6b38b0f4b, type: 3}
+  m_Name: PowerPuzzle
+  m_EditorClassIdentifier: 
+  price:
+    type: 0
+    value: 0
+  gamePrefab: {fileID: 5011916533187038614, guid: cc481cbd6f7964d46b608b42758940e8,
+    type: 3}
+  lastChance:
+    LastChanceType: 0
+    MaxNumber: 16
+    LinesCount: 2
+  canBuyBoosters: 1
+  boosterConfigList:
+    list:
+    - booster: {fileID: 11400000, guid: f7f4fd224e0a0d74cb6fd4555078e553, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 8bd05df1072bda64cbd2694fcb431927, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 0984744077fcb7749b0c6d1d42a074cf, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 26e04763a89501b42b0b05e340fb1583, type: 2}
+      startCount: 0

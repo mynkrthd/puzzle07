@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb99356d2541492294507ac6b38b0f4b, type: 3}
+  m_Name: Doku
+  m_EditorClassIdentifier: 
+  price:
+    type: 1
+    value: 2
+  gamePrefab: {fileID: 5011916533187038614, guid: 6670fbb5300884d4a8c9294f58a59ab8,
+    type: 3}
+  lastChance:
+    LastChanceType: 2
+    MaxNumber: 4
+    LinesCount: 3
+  canBuyBoosters: 1
+  boosterConfigList:
+    list:
+    - booster: {fileID: 11400000, guid: f7f4fd224e0a0d74cb6fd4555078e553, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 26e04763a89501b42b0b05e340fb1583, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: 1d4507f6ead6ede4191c3baaf0f22ee4, type: 2}
+      startCount: 0
+    - booster: {fileID: 11400000, guid: be062b3a31d335442b273b9f29b41011, type: 2}
+      startCount: 0
